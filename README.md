@@ -22,7 +22,18 @@ A machine learning project for recognizing medical tests like X-rays, MRIs, and 
 14. Hernia
 ```
 
-### [2. COVID-19 Detection](https://www.kaggle.com/datasets/jaidalmotra/covid-19-vs-normal-chest-x-rays)
+### [2. COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
-### [3. Bone fracture](https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays)
+### [3. MURA (musculoskeletal radiographs) | X Ray](https://datasets.activeloop.ai/docs/ml/datasets/mura-dataset/)
 
+# MRI/CT Datasets
+
+## Brain MRI:
+
+### [OASIS Alzheimer's Detection](https://www.kaggle.com/datasets/ninadaithal/imagesoasis)
+
+### [Brain Tumor Segmentation](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data/data)
+
+## Lung CT:
+
+### [Luna16 - cancer detection](https://www.kaggle.com/datasets/avc0706/luna16)
