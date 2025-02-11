@@ -1,6 +1,7 @@
 # MedScan-Insight
 A machine learning project for recognizing medical tests like X-rays, MRIs, and CT scans, detecting anomalies, and identifying test types, all in a web-based platform.
 
+Large-Scale High-Precision Computer-Aided Diagnosis (CAD) Systems
 
 # X-Rays
 ### [1. Chest X-rays (NIH)](https://www.kaggle.com/datasets/nih-chest-xrays/data?resource=download)
